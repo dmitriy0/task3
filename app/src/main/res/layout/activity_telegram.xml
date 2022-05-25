@@ -189,7 +189,7 @@
                         android:layout_marginTop="8dp"
                         app:layout_constraintTop_toBottomOf="@id/view_phone"
                         app:layout_constraintStart_toStartOf="parent"
-                        android:text="+7(999) 999-99-99" />
+                        android:text="dm1tr1y0" />
 
                     <TextView
                         android:id="@+id/change_username"
@@ -199,7 +199,7 @@
                         app:layout_constraintTop_toBottomOf="@id/username"
                         app:layout_constraintStart_toStartOf="parent"
                         android:textSize="10sp"
-                        android:text="Tap to change phone number" />
+                        android:text="Username" />
                     <View
                         android:id="@+id/view_username"
                         android:layout_width="match_parent"
@@ -216,7 +216,7 @@
                         android:layout_marginTop="8dp"
                         app:layout_constraintTop_toBottomOf="@id/view_username"
                         app:layout_constraintStart_toStartOf="parent"
-                        android:text="+7(999) 999-99-99" />
+                        android:text="Bio" />
 
                     <TextView
                         android:id="@+id/change_bio"
